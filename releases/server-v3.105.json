@@ -1,0 +1,18 @@
+{
+  "version": "3.105",
+  "tag": "server-v3.105",
+  "repository": "emdrdschoi/autoemr",
+  "server_only": true,
+  "assets": [
+    {
+      "name": "Historytaker_v3.105_server.zip",
+      "bytes": 24507,
+      "sha256": "1f77b9b0531491319abe394b86d1844f6a073fda6081e76bbce74e3f89e32ae9"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 97,
+      "sha256": "a51387341e335e8c2e7115c0df2ca44e5797c4461a75f7b545122abddca0793d"
+    }
+  ]
+}
