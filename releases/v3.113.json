@@ -1,0 +1,23 @@
+{
+  "version": "3.113",
+  "tag": "v3.113",
+  "repository": "emdrdschoi/autoemr",
+  "server_only": false,
+  "assets": [
+    {
+      "name": "EMRauto_v3.113_compact.zip",
+      "bytes": 1982153,
+      "sha256": "b53223d465173d1c915cfbb6fb97e37f93d22abd9dd51357ea9e843e02b1bf1f"
+    },
+    {
+      "name": "Historytaker_v3.113_server.zip",
+      "bytes": 25848,
+      "sha256": "919df95d34a7d835918b567184df8a4fd4107744b8117a346effe5ecd666a639"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 190,
+      "sha256": "ec11eeade8a9320efffa809030460f2d0347c5bc9dd4003a388deead3af480dc"
+    }
+  ]
+}
