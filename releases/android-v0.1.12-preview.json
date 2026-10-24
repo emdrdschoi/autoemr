@@ -1,0 +1,30 @@
+{
+  "version": "0.1.12",
+  "tag": "android-v0.1.12-preview",
+  "repository": "emdrdschoi/autoemr",
+  "server_only": true,
+  "android": true,
+  "prerelease": true,
+  "assets": [
+    {
+      "name": "EMRVoice-0.1.12-preview.apk",
+      "bytes": 65939,
+      "sha256": "ffc4f660703b4972b588f5a13514a70438454c6e520cea4c4592c9ab15a5beb7"
+    },
+    {
+      "name": "Historytaker_android_0.1.12.zip",
+      "bytes": 32764,
+      "sha256": "c10d89801e74f33a748e669bb7b6de780c3f21bd4e3351103efcc888ae2b22f8"
+    },
+    {
+      "name": "INSTALL.md",
+      "bytes": 14888,
+      "sha256": "d9f7ff309bf52b0b9636ae3228d53b2ea03a48cad435483bbfde825c9373c17f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 269,
+      "sha256": "b6ab39a69b84ef587f37f041acc0496a4c21bbf81a7002b5ee877b79552a36dc"
+    }
+  ]
+}
